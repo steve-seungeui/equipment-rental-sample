@@ -1,0 +1,6 @@
+{
+  "checks": [
+    { "name": "테스트", "command": "pytest -q" }
+  ],
+  "apiDocs": { "routes": "app/api/", "document": "README.md" }
+}
